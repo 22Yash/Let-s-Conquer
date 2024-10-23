@@ -1,0 +1,55 @@
+.about-us-container {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #DBE2EF; /* White background for contrast */
+    border-radius: 15px; /* More rounded corners */
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2); /* Stronger shadow */
+  }
+  
+  .about-us-container h2 {
+    text-align: center;
+    color: #3F72AF; /* Primary color for header */
+    margin-bottom: 20px;
+    font-size: 2.5rem; /* Larger header font size */
+    text-transform: uppercase; /* Uppercase for emphasis */
+  }
+  
+  .mission-vision {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  
+  .card {
+    flex: 1;
+    margin: 0 10px;
+    padding: 20px;
+    background-color: #9fbae8; /* Light blue background */
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: transform 0.3s, box-shadow 0.3s; /* Animation on hover */
+  }
+  
+  .card:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2); /* Darker shadow on hover */
+  }
+  
+  
+  .about-us-container p {
+    margin-bottom: 15px; /* Space after paragraphs */
+    font-size: 1.1rem; /* Slightly larger font size */
+  }
+  
+  .about-us-container a {
+    color: #007bff; /* Link color */
+    text-decoration: none; /* Remove underline */
+  }
+  
+  .about-us-container a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  

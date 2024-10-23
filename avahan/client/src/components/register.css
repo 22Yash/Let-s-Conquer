@@ -1,0 +1,53 @@
+/* Reset some default styles */
+
+.form-container {
+  max-width: 400px; /* Set a maximum width */
+  margin: 50px auto; /* Center the form */
+  padding: 20px;
+  background-color: #DBE2EF; /* White background for the form */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+h2 {
+  text-align: center; /* Center the heading */
+  margin-bottom: 20px; /* Space below the heading */
+  color:#3F72AF; /* Dark color for text */
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 100%; /* Full width inputs */
+  padding: 10px; /* Space inside the inputs */
+  margin: 10px 0; /* Space above and below inputs */
+  border: 1px solid #ccc; /* Light border */
+  border-radius: 4px; /* Rounded corners for inputs */
+  box-sizing: border-box; /* Ensure padding is included in width */
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus {
+  border-color: #3F72AF; /* Blue border on focus */
+  outline: none; /* Remove outline */
+}
+
+button {
+  width: 100%; /* Full width button */
+  padding: 10px;
+  background-color: #3F72AF; /* Blue background */
+  color: white; /* White text */
+  border: none; /* No border */
+  border-radius: 4px; /* Rounded corners */
+  cursor: pointer; /* Pointer cursor on hover */
+  font-size: 16px; /* Larger text */
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+.error {
+  color: red; /* Red text for errors */
+  margin-top: 10px; /* Space above error messages */
+  text-align: center; /* Center the error message */
+}

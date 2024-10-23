@@ -1,0 +1,22 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    width: 100vw;
+    padding: 10px 20px 10px 20px;
+    background-color: #3F72AF;
+    color: white;
+    overflow: hidden;
+  }
+  .nav-bar ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap: 70px;
+  }
+  .nav-bar ul a{
+    text-decoration: none;
+    color: white;
+  }

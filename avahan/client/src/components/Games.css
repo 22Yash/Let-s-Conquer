@@ -1,0 +1,45 @@
+.game-container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h2 {
+    color: #3F72AF; /* Primary color for the header */
+    margin-bottom: 30px;
+  }
+  
+  .cards-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two equal-width columns */
+    gap: 20px; /* Space between cards */
+  }
+  
+  .card {
+    background-color: #DBE2EF; /* White background for the card */
+    border-radius: 10px;
+    overflow: hidden; /* Clip content */
+  }
+  
+  .card:hover {
+    transform: translateY(-5px); /* Lift effect on hover */
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2); /* Darker shadow on hover */
+  }
+  
+  
+  .card-content {
+    padding: 15px;
+  }
+  
+  .card-content h3 {
+    margin: 0 0 10px; /* Space below the title */
+    color: #333; /* Dark color for title */
+  }
+  
+  .card-content p {
+    margin: 0; /* Remove margin from paragraph */
+    color: #666; /* Lighter color for description */
+  }
+  
