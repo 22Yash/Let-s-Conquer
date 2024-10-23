@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "description": "A thief who steals corporate secrets through dream-sharing technology.",
+        "imageUrl": "https://example.com/inception.jpg",
+        "releaseYear": 2010,
+        "genre": "Science Fiction"
+    },
+    {
+        "id": 2,
+        "title": "Kabir Singh",
+        "description": "Kabir Singh is a 2019 Indian Hindi-language romantic action drama film directed by Sandeep Reddy Vanga.",
+        "imageUrl": "https://example.com/kabir_singh.jpg",
+        "releaseYear": 2019,
+        "genre": "Romance"
+    },
+    {
+        "id": 3,
+        "title": "The Matrix",
+        "description": "A computer hacker learns about the true nature of his reality.",
+        "imageUrl": "https://example.com/matrix.jpg",
+        "releaseYear": 1999,
+        "genre": "Action"
+    }
+]
