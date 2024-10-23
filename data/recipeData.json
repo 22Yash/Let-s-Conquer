@@ -1,0 +1,60 @@
+{
+    "recipes": [
+        {
+            "id": "001",
+            "title": "Spaghetti Carbonara",
+            "time": "30 min",
+            "image": "spaghetti_carbonara.jpg"
+        },
+        {
+            "id": "002",
+            "title": "Chicken Curry",
+            "time": "45 min",
+            "image": "chicken_curry.jpg"
+        },
+        {
+            "id": "003",
+            "title": "Vegetable Stir Fry",
+            "time": "20 min",
+            "image": "vegetable_stir_fry.jpg"
+        }
+    ],
+    "ingredients": [
+        {
+            "id": "I001",
+            "recipeId": "001",
+            "name": "Spaghetti",
+            "quantity": "200g"
+        },
+        {
+            "id": "I002",
+            "recipeId": "001",
+            "name": "Eggs",
+            "quantity": "2"
+        },
+        {
+            "id": "I003",
+            "recipeId": "002",
+            "name": "Chicken",
+            "quantity": "500g"
+        },
+        {
+            "id": "I004",
+            "recipeId": "002",
+            "name": "Curry Powder",
+            "quantity": "2 tbsp"
+        },
+        {
+            "id": "I005",
+            "recipeId": "003",
+            "name": "Vegetables",
+            "quantity": "300g"
+        },
+        {
+            "id": "I006",
+            "recipeId": "003",
+            "name": "Soy Sauce",
+            "quantity": "3 tbsp"
+        }
+    ]
+}

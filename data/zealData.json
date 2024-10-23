@@ -1,0 +1,45 @@
+{
+    "events": [
+        {
+            "eventId": "001",
+            "eventName": "Cultural Dance Performance",
+            "date": "2024-12-15",
+            "time": "6:00 PM",
+            "location": "Main Auditorium"
+        },
+        {
+            "eventId": "002",
+            "eventName": "Drama Night",
+            "date": "2024-12-16",
+            "time": "7:00 PM",
+            "location": "Open Air Theatre"
+        },
+        {
+            "eventId": "003",
+            "eventName": "Music Concert",
+            "date": "2024-12-17",
+            "time": "8:00 PM",
+            "location": "College Grounds"
+        }
+    ],
+    "participants": [
+        {
+            "participantId": "P001",
+            "name": "Alice Johnson",
+            "eventId": "001",
+            "role": "Dancer"
+        },
+        {
+            "participantId": "P002",
+            "name": "Bob Smith",
+            "eventId": "002",
+            "role": "Actor"
+        },
+        {
+            "participantId": "P003",
+            "name": "Charlie Brown",
+            "eventId": "003",
+            "role": "Vocalist"
+        }
+    ]
+}

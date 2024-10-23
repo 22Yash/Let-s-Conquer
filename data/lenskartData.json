@@ -1,0 +1,22 @@
+{
+    "glasses": [
+        {
+            "productId": "001",
+            "name": "Round Metal Frame Glasses",
+            "price": 120,
+            "image": "round_metal_frame_glasses.jpg"
+        },
+        {
+            "productId": "002",
+            "name": "Aviator Sunglasses",
+            "price": 200,
+            "image": "aviator_sunglasses.jpg"
+        },
+        {
+            "productId": "003",
+            "name": "Blue Light Blocking Glasses",
+            "price": 150,
+            "image": "blue_light_blocking_glasses.jpg"
+        }
+    ]
+}

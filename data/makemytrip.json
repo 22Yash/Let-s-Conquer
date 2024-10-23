@@ -1,0 +1,22 @@
+{
+    "trips": [
+        {
+            "tripId": "001",
+            "destination": "Paris",
+            "price": 1200,
+            "image": "paris_trip.jpg"
+        },
+        {
+            "tripId": "002",
+            "destination": "New York",
+            "price": 950,
+            "image": "newyork_trip.jpg"
+        },
+        {
+            "tripId": "003",
+            "destination": "Tokyo",
+            "price": 1100,
+            "image": "tokyo_trip.jpg"
+        }
+    ]
+}

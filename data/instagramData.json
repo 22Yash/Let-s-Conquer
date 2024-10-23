@@ -1,0 +1,25 @@
+{
+    "posts": [
+        {
+            "postId": "001",
+            "username": "john_doe",
+            "caption": "Loving the sunset 🌅",
+            "image": "sunset_image.jpg",
+            "likes": 150
+        },
+        {
+            "postId": "002",
+            "username": "jane_smith",
+            "caption": "Hiking adventures 🏞️",
+            "image": "hiking_image.jpg",
+            "likes": 230
+        },
+        {
+            "postId": "003",
+            "username": "travel_guru",
+            "caption": "Exploring the streets of Paris! 🇫🇷",
+            "image": "paris_street_image.jpg",
+            "likes": 320
+        }
+    ]
+}

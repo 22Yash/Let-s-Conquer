@@ -1,0 +1,62 @@
+{
+    "ebooks": [
+        {
+            "ebookId": "001",
+            "title": "The Great Gatsby",
+            "authorId": "A001",
+            "price": 9.99,
+            "image": "great_gatsby.jpg"
+        },
+        {
+            "ebookId": "002",
+            "title": "1984",
+            "authorId": "A002",
+            "price": 7.99,
+            "image": "1984.jpg"
+        },
+        {
+            "ebookId": "003",
+            "title": "To Kill a Mockingbird",
+            "authorId": "A003",
+            "price": 8.99,
+            "image": "to_kill_a_mockingbird.jpg"
+        }
+    ],
+    "authors": [
+        {
+            "authorId": "A001",
+            "name": "F. Scott Fitzgerald"
+        },
+        {
+            "authorId": "A002",
+            "name": "George Orwell"
+        },
+        {
+            "authorId": "A003",
+            "name": "Harper Lee"
+        }
+    ],
+    "ratings": [
+        {
+            "ratingId": "R001",
+            "ebookId": "001",
+            "userId": "U001",
+            "rating": 5,
+            "comment": "A masterpiece of American literature."
+        },
+        {
+            "ratingId": "R002",
+            "ebookId": "002",
+            "userId": "U002",
+            "rating": 4,
+            "comment": "A chilling depiction of a dystopian future."
+        },
+        {
+            "ratingId": "R003",
+            "ebookId": "003",
+            "userId": "U003",
+            "rating": 5,
+            "comment": "A powerful and moving story."
+        }
+    ]
+}

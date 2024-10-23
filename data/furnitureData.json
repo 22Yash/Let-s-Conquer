@@ -1,0 +1,22 @@
+{
+    "furnitureItems": [
+        {
+            "itemId": "001",
+            "name": "Modern Sofa",
+            "price": 500,
+            "image": "modern_sofa.jpg"
+        },
+        {
+            "itemId": "002",
+            "name": "Dining Table Set",
+            "price": 750,
+            "image": "dining_table_set.jpg"
+        },
+        {
+            "itemId": "003",
+            "name": "King Size Bed",
+            "price": 900,
+            "image": "king_size_bed.jpg"
+        }
+    ]
+}

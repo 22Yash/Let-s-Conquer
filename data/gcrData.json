@@ -1,0 +1,42 @@
+{
+    "classes": [
+        {
+            "classId": "001",
+            "className": "Mathematics 101",
+            "teacher": "Mr. John Doe",
+            "image": "math_class_image.jpg"
+        },
+        {
+            "classId": "002",
+            "className": "History of Art",
+            "teacher": "Ms. Jane Smith",
+            "image": "art_class_image.jpg"
+        },
+        {
+            "classId": "003",
+            "className": "Physics - Quantum Mechanics",
+            "teacher": "Dr. Emily Carter",
+            "image": "physics_class_image.jpg"
+        }
+    ],
+    "assignments": [
+        {
+            "assignmentId": "A001",
+            "classId": "001",
+            "title": "Algebra Homework",
+            "dueDate": "2024-11-01"
+        },
+        {
+            "assignmentId": "A002",
+            "classId": "002",
+            "title": "Art History Essay",
+            "dueDate": "2024-11-05"
+        },
+        {
+            "assignmentId": "A003",
+            "classId": "003",
+            "title": "Quantum Mechanics Problem Set",
+            "dueDate": "2024-11-10"
+        }
+    ]
+}

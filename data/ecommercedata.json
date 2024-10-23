@@ -1,0 +1,22 @@
+{
+    "products": [
+        {
+            "productId": "001",
+            "name": "Wireless Headphones",
+            "price": 99,
+            "image": "wireless_headphones.jpg"
+        },
+        {
+            "productId": "002",
+            "name": "Smartphone",
+            "price": 699,
+            "image": "smartphone.jpg"
+        },
+        {
+            "productId": "003",
+            "name": "Gaming Laptop",
+            "price": 1299,
+            "image": "gaming_laptop.jpg"
+        }
+    ]
+}

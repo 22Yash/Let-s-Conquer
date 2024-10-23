@@ -1,0 +1,22 @@
+{
+    "clothingItems": [
+        {
+            "itemId": "001",
+            "title": "Casual T-Shirt",
+            "price": 20,
+            "image": "casual_tshirt_image.jpg"
+        },
+        {
+            "itemId": "002",
+            "title": "Denim Jacket",
+            "price": 50,
+            "image": "denim_jacket_image.jpg"
+        },
+        {
+            "itemId": "003",
+            "title": "Sneakers",
+            "price": 80,
+            "image": "sneakers_image.jpg"
+        }
+    ]
+}

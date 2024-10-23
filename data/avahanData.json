@@ -1,0 +1,62 @@
+{
+    "events": [
+        {
+            "eventId": "001",
+            "eventName": "100m Sprint",
+            "date": "2024-11-10",
+            "time": "10:00 AM",
+            "location": "Athletics Track"
+        },
+        {
+            "eventId": "002",
+            "eventName": "Basketball Tournament",
+            "date": "2024-11-11",
+            "time": "1:00 PM",
+            "location": "Indoor Stadium"
+        },
+        {
+            "eventId": "003",
+            "eventName": "Football Match",
+            "date": "2024-11-12",
+            "time": "3:00 PM",
+            "location": "Football Ground"
+        }
+    ],
+    "teams": [
+        {
+            "teamId": "T001",
+            "teamName": "Lightning Bolts",
+            "eventId": "001"
+        },
+        {
+            "teamId": "T002",
+            "teamName": "Hoops Hooligans",
+            "eventId": "002"
+        },
+        {
+            "teamId": "T003",
+            "teamName": "Goal Getters",
+            "eventId": "003"
+        }
+    ],
+    "participants": [
+        {
+            "participantId": "P001",
+            "name": "Alice Johnson",
+            "teamId": "T001",
+            "eventId": "001"
+        },
+        {
+            "participantId": "P002",
+            "name": "Bob Smith",
+            "teamId": "T002",
+            "eventId": "002"
+        },
+        {
+            "participantId": "P003",
+            "name": "Charlie Brown",
+            "teamId": "T003",
+            "eventId": "003"
+        }
+    ]
+}
